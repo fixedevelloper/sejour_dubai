@@ -48,7 +48,7 @@ Bénéficiez de notre expertise en planification académique en République Dém
                             </svg>
                         </div>
                         <span>address line</span>
-                        <p class="des">Bowery St, New York, NY <br> 10013,USA</p>
+                        <p class="des">Bowery St, Pointe noir <br> Congo Brazaville</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -60,7 +60,7 @@ Bénéficiez de notre expertise en planification académique en République Dém
                                 <path d="M70.2485 31.2432C68.9313 23.59 65.2908 16.6258 59.6967 11.0838C54.1026 5.54175 47.0731 1.93503 39.3479 0.630166C38.2676 0.439568 37.2465 1.17264 37.0541 2.24292C36.8765 3.32787 37.6016 4.33951 38.6968 4.53011C45.5932 5.68836 51.8828 8.92854 56.8849 13.8694C61.887 18.825 65.1428 25.0561 66.3119 31.8883C66.4747 32.856 67.3182 33.5304 68.2802 33.5304C68.3986 33.5304 68.5022 33.5158 68.6206 33.5011C69.7009 33.3398 70.4408 32.3135 70.2485 31.2432Z" fill="currentColor"></path>
                             </svg>
                         </div>
-                        <span>Phone Number</span>
+                        <span>N Telephone</span>
                         <p class="des">+242 - 568 - 6523 <br> +242 - 568 - 6523</p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ Bénéficiez de notre expertise en planification académique en République Dém
                                 <path d="M55.3637 29.2004C55.3637 28.2254 54.5659 27.4351 53.5817 27.4351H25.071C24.0868 27.4351 23.2891 28.2254 23.2891 29.2004C23.2891 30.1755 24.0868 30.9658 25.071 30.9658H53.5819C54.5659 30.9658 55.3637 30.1755 55.3637 29.2004Z" fill="currentColor"></path>
                             </svg>
                         </div>
-                        <span>Mail Adress</span>
+                        <span>Adresse mail</span>
                         <p class="des">info@residencecarddubai.com<br> contact@residencecarddubai.com</p>
                     </div>
 
@@ -85,9 +85,9 @@ Bénéficiez de notre expertise en planification académique en République Dém
                 <div class="col-md-6">
                     <div class="contact-us-map">
                         <div class="inner-header mb-45">
-                            <h2 class="title">Get in touch</h2>
-                            <p class="des">Lorem ipsum dolor sit amet consectetur adipiscing elit mattis
-                                faucibus odio feugiat arc dolor.</p>
+                            <h2 class="title">Entrer en contact</h2>
+                            <p class="des">Pour toute question, suggestion ou demande d'information, n'hésitez pas à nous contacter. Notre équipe est à votre disposition pour vous aider !
+                                .</p>
                         </div>
                         <div class="map relative">
                             <div id="map" class="mapboxgl-map"><div class="mapboxgl-canary" style="visibility: hidden;"></div><div class="mapboxgl-canvas-container mapboxgl-interactive mapboxgl-touch-drag-pan mapboxgl-touch-zoom-rotate"><canvas class="mapboxgl-canvas" tabindex="0" aria-label="Map" role="region" width="564" height="559" style="width: 564px; height: 559px;"></canvas><div class="marker mapboxgl-marker mapboxgl-marker-anchor-center" aria-label="Map marker" style="transform: translate(282px, 280px) translate(-50%, -50%) translate(0px);"></div></div><div class="mapboxgl-control-container"><div class="mapboxgl-ctrl-top-left"></div><div class="mapboxgl-ctrl-top-right"></div><div class="mapboxgl-ctrl-bottom-left"><div class="mapboxgl-ctrl" style="display: block;"><a class="mapboxgl-ctrl-logo" target="_blank" rel="noopener nofollow" href="https://www.mapbox.com/" aria-label="Mapbox logo"></a></div></div><div class="mapboxgl-ctrl-bottom-right"><div class="mapboxgl-ctrl mapboxgl-ctrl-attrib mapboxgl-attrib-empty mapboxgl-compact"><button class="mapboxgl-ctrl-attrib-button" type="button" aria-label="Toggle attribution"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Toggle attribution"></span></button><div class="mapboxgl-ctrl-attrib-inner" role="list"></div></div></div></div></div>
@@ -99,25 +99,25 @@ Bénéficiez de notre expertise en planification académique en République Dém
                 <div class="col-md-6">
                     <div class="contact-us-wrap bg-4">
                         <div class="inner-header mb-60">
-                            <h2 class="title">Fill Up The Form</h2>
-                            <p class="des">Your email address will not be published. Required fields <br>
-                                are marked *</p>
+                            <h2 class="title">Remplissez le formulaire</h2>
+                            <p class="des">Votre adresse email ne sera pas publiée. Champs obligatoires <br>
+                                sont marqués *</p>
                         </div>
                         <form action="/" id="form-contact-us">
                             <div class="input-wrap relative">
                                 <i class="icon-user-1-1"></i>
-                                <input type="text" placeholder="Your Name*">
+                                <input type="text" placeholder="Votre Nom*" name="name">
                             </div>
                             <div class="input-wrap relative">
                                 <i class="icon-Group-51"></i>
-                                <input type="email" placeholder="Email Address*">
+                                <input type="email" placeholder="Email Address*" name="address">
                             </div>
                             <div class="input-wrap relative">
                                 <i class="icon-content"></i>
-                                <textarea name="text-write" rows="7" cols="30" placeholder="Enter Your Messege here"></textarea>
+                                <textarea name="message" rows="7" cols="30" placeholder="Entrez votre message ici"></textarea>
                             </div>
                             <button type="submit" class="btn-submit-contact"><i class="icon-Group-121"></i>
-                                Get In Touch</button>
+                                Entrer en contact</button>
                         </form>
 
                     </div>

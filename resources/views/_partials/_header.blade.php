@@ -61,19 +61,20 @@
                                     <div class="navbar-collapse collapse clearfix"
                                          id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
-                                            <li class="current">
+                                            <li class="{{request()->routeIs('home')?'current':''}}">
                                                 <a href="{{route('home')}}">Accueil</a>
                                             </li>
-                                            <li class="">
+                                            <li class="{{request()->routeIs('about')?'current':''}}">
                                                 <a href="{{route('about')}}">Apropos de nous</a>
                                             </li>
-                                            <li class="">
+                                            <li class="{{request()->routeIs('package')?'current':''}}">
                                                 <a href="{{route('package')}}">Packages</a>
                                             </li>
-                                            <li class="">
+                                            <li class="{{request()->routeIs('procedure')?'current':''}}">
                                                 <a href="{{route('procedure')}}">Procedure</a>
                                             </li>
-                                            <li><a href="{{route('contact')}}">Contact</a></li>
+                                            <li class="{{request()->routeIs('contact')?'current':''}}">
+                                                <a href="{{route('contact')}}">Contact</a></li>
                                         </ul>
                                     </div>
                                 </nav>
