@@ -61,7 +61,7 @@ Bénéficiez de notre expertise en planification académique en République Dém
                             </svg>
                         </div>
                         <span>Phone Number</span>
-                        <p class="des">+1255 - 568 - 6523 <br> +1255 - 568 - 6523</p>
+                        <p class="des">+242 - 568 - 6523 <br> +242 - 568 - 6523</p>
                     </div>
                 </div>
                 <div class="col-md-4">

@@ -9,9 +9,9 @@
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
     <link rel="canonical" href="{{ url(Request::url()) }}" />
-    <title> @yield('title') - GUEN'S EDUCATION</title>
+    <title> @yield('title') - Carte de residence dubai</title>
     <!-- Favicon img -->
-    <link rel="shortcut icon" href="{!! asset('faicon.png') !!}">
+    <link rel="shortcut icon" href="{!! asset('assets/images/favico.png') !!}">
     <!-- Bootstarp min css -->
     <link rel="stylesheet" href="{!! asset('assets/css/app.css') !!}">
     <link rel="stylesheet" href="{!! asset('assets/css/custom.css') !!}">
@@ -59,21 +59,21 @@
                 <div class="logo-canvas">
                     <img src="./assets/images/logo.png" alt="image">
                 </div>
-                <p class="des">The world’s first and largest digital market
-                    for crypto collectibles and non-fungible
+                <p class="des">Bienvenue sur notre site dédié à la vente de visas à Dubaï. Nous offrons une gamme complète de services pour vous aider à obtenir le visa dont vous avez besoin, que ce soit pour des raisons professionnelles, familiales ou d'investissement. Notre équipe d'experts en immigration est à
+                    votre disposition pour vous fournir des conseils personnalisés et un accompagnement tout au long de votre démarche</p>
                 </p>
                 <ul class="canvas-info">
                     <li class="flex-three">
                         <i class="icon-noun-mail-5780740-1"></i>
-                        <p>Info@webmail.com</p>
+                        <p>info@residencecarddubai.com</p>
                     </li>
                     <li class="flex-three">
                         <i class="icon-Group-9"></i>
-                        <p>684 555-0102 490</p>
+                        <p>+242 555-0102 490</p>
                     </li>
                     <li class="flex-three">
                         <i class="icon-Layer-19"></i>
-                        <p>6391 Elgin St. Celina, NYC 10299</p>
+                        <p>6391 Elgin St. Pointe noire</p>
                     </li>
                 </ul>
                 <ul class="social flex-three">
