@@ -1,0 +1,33 @@
+.breadcumb-section {
+
+    background-image: url(../../assets/images/slide/banner.jpg) !important;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-home2-content .tour-list ul li i {
+    font-size: 8px;
+    padding: 5px;
+    color: #FFFFFF;
+    border-radius: 100%;
+    background-color: #a3acb3;
+    margin-right: 8px;
+}
+.header-style1 .header-top .header-top-left .follow-social ul {
+    background-color: #a3acb3;
+    padding: 9px 30px;
+}
+.header-style1 .header-lower .header-account .icon-bar-header a {
+    color: #a3acb3;
+    background-color: #06104e;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 22px;
+}
+.wd-search .form-group .search-bar-group .nice-select {
+    padding: 35px 30px 8px 0px;
+    border: unset !important;
+    width: 300px !important;
+}
